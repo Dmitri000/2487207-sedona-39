@@ -2,6 +2,7 @@
 
 * Студент: [~~](https://up.htmlacademy.ru/htmlcss/39/user/2487207).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Ссылка на сайт[Сайт](file:///C:/Users/Dima/OneDrive/Документы/2487207-sedona-39-master/index.html)
 
 ---
 
